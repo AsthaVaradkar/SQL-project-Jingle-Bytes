@@ -3,3 +3,4 @@ The queries I have written are very helpful to analyse the data, as the analysis
 This project analysis is useful for Understanding Voter Behavior,Identifying Trends and Prediction,Media Reporting and Public Discourse.
 
 
+
